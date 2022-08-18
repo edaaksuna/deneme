@@ -1,3 +1,4 @@
 # deneme
 # Eda
 # Eda
+*eda*
